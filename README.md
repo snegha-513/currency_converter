@@ -26,5 +26,3 @@ This project is a Python-based Currency Converter application developed using Tk
 ## Output
 - Converted currency value displayed on screen
 
-## Developer
-RISE 3.0 Intern
